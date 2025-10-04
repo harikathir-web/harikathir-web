@@ -1,5 +1,5 @@
 # 💫 About Me:
-This is Hariharan M , I'm a Final year Btech - Information Technology student in Dhanalakshmi Srinivasan Engineering College.  <br> I am a front-end web developer. My job is to build your website so that it is functional and user-friendly but at the same time attractive. I can provide clean code and pixel perfect design.A responsive design makes your website accessible to all users,regardless of their device<br>
+This is Hariharan M , I'm a Final year Btech - Information Technology student in Dhanalakshmi Srinivasan Engineering College.  <br> I am a fullstack web developer. My job is to build your website so that it is functional and user-friendly but at the same time attractive. I can provide clean code and pixel perfect design.A responsive design makes your website accessible to all users,regardless of their device<br>
 
 
 ## 🌐 Socials:
